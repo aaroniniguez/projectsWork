@@ -1,0 +1,8 @@
+
+hw_modules = stcv-qemu
+
+hw_details = {'cm-1g':['smt-11u-01.calenglab.spirentcom.com/1/1;smt-11u-01.calenglab.spirentcom.com/1/3']}
+
+agent_host_details = { 'Agent1':{'hostname':'smt-agent-s4-01.cal.ci.spirentcom.com','platform':'linux','OSVersion':'EL3', 'chassisType':'11U'},'Agent2':{'hostname':'smt-agent-s4-02.cal.ci.spirentcom.com','platform':'linux','OSVersion':'EL3', 'chassisType':'Modules'}}
+
+
